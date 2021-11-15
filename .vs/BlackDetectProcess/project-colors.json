@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98db751a-52d2-40a4-a71b-b4a5998585da": {
+      "ProjectGuid": "98db751a-52d2-40a4-a71b-b4a5998585da",
+      "DisplayName": "RunProgram",
+      "ColorIndex": 0
+    },
+    "997cf59b-3d2f-422a-8706-ac55f9d53090": {
+      "ProjectGuid": "997cf59b-3d2f-422a-8706-ac55f9d53090",
+      "DisplayName": "VideoProcessingLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

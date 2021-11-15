@@ -1,0 +1,120 @@
+Video Name :1280
+Video Duration :00:00:52.03
+Video Black Scene number :7
+
+Black scenes 1
+Black start :0.025
+Black end :1.275
+Black duration :1.25
+
+Black scenes 2
+Black start :9.233
+Black end :12.233
+Black duration :3
+
+Black scenes 3
+Black start :15.775
+Black end :16.567
+Black duration :0.792
+
+Black scenes 4
+Black start :17.567
+Black end :18.442
+Black duration :0.875
+
+Black scenes 5
+Black start :21.525
+Black end :22.15
+Black duration :0.625
+
+Black scenes 6
+Black start :41.983
+Black end :48.525
+Black duration :6.542
+
+Black scenes 7
+Black start :50.9
+Black end :51.525
+Black duration :0.625
+
+**********************************
+Video Name :Code_free
+Video Duration :00:00:09.00
+Video Black Scene number :0
+
+**********************************
+Video Name :file_example
+Video Duration :00:00:30.57
+Video Black Scene number :0
+
+**********************************
+Video Name :Film_burn_pack
+Video Duration :00:00:29.57
+Video Black Scene number :4
+
+Black scenes 1
+Black start :4.83817
+Black end :7.79946
+Black duration :2.96129
+
+Black scenes 2
+Black start :10.1768
+Black end :13.8472
+Black duration :3.67033
+
+Black scenes 3
+Black start :15.7657
+Black end :20.2285
+Black duration :4.46279
+
+Black scenes 4
+Black start :22.5642
+Black end :26.1928
+Black duration :3.62862
+
+**********************************
+Video Name :Glitch
+Video Duration :00:00:15.02
+Video Black Scene number :5
+
+Black scenes 1
+Black start :2.91667
+Black end :3.66667
+Black duration :0.75
+
+Black scenes 2
+Black start :3.75
+Black end :5.66667
+Black duration :1.91667
+
+Black scenes 3
+Black start :6.91667
+Black end :7.41667
+Black duration :0.5
+
+Black scenes 4
+Black start :10.4167
+Black end :11
+Black duration :0.583333
+
+Black scenes 5
+Black start :12.5
+Black end :13.5
+Black duration :1
+
+**********************************
+Video Name :karanlik
+Video Duration :00:00:05.64
+Video Black Scene number :1
+
+Black scenes 1
+Black start :0
+Black end :5.5
+Black duration :5.5
+
+**********************************
+Video Name :videoplayback
+Video Duration :00:00:30.90
+Video Black Scene number :0
+
+**********************************
